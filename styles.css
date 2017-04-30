@@ -2,6 +2,14 @@ p {
     color: rgba(0, 0, 255,0.5);
     font-size: 30px;
     font-family:  Arial;
-    font-weight: bold;
-    text-align: center;
+
+}
+
+h1 {
+    color: blue;
+}
+
+div div p{
+    font-size: 15px;
+    color:grey;
 }
