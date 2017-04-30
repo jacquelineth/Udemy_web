@@ -16,3 +16,14 @@ h1 {
 #unique{
     font-size: 80px;
 }
+
+a:link{
+    color: orange;
+}
+
+a:visited{
+    color:green;
+}
+a:hover{
+    color:blue;
+}
