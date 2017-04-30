@@ -1,5 +1,7 @@
-p:first-child{
-    color:red;
-    font-size: 30px;
-
+p{
+    display: inline-block;
+    /* display: inline; */
+    /* display: block; */
+    background-color: yellow;
+    width: 200px;
 }
