@@ -3,6 +3,7 @@ p {
     font-size: 30px;
     font-family: Helvetica, Arial, serif;
     /*
+    Inregrated in CSS standard, and should be set as last resort i supported family
     serif
     sans-serif
     cursive
