@@ -8,8 +8,8 @@
     background-color: red;
     width: 150px;
     height: 500px;
-    position: relative;
-    top: 100px;
-    left: 300px;
+    position: fixed;
+    bottom: 0px;
+    right: 00px;
  
 }
