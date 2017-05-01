@@ -10,3 +10,12 @@
     height: 500px;
     float:right;
 }
+header{
+    height: 100px;
+    background-color: yellow;
+}
+footer{
+    height: 100px;
+    background-color: grey;
+    clear: both
+}
