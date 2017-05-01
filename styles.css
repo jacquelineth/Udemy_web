@@ -1,21 +1,15 @@
 .left{
-    background-color: blue;
+    height: 1450px;
     width: 200px;
-    height: 450px;
-    float:left;
+    background-color: blue;
+    /*position: static; default*/
 }
 .right{
     background-color: red;
     width: 150px;
     height: 500px;
-    float:right;
-}
-header{
-    height: 100px;
-    background-color: yellow;
-}
-footer{
-    height: 100px;
-    background-color: grey;
-    clear: both
+    position: relative;
+    top: 100px;
+    left: 300px;
+ 
 }
