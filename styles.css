@@ -3,11 +3,8 @@
     width: 400px;
     height: 500px;
     margin: 100px auto;
-    /*Following 3 lines  written as a single one*/
-    /*border-style: solid;*/
-    /*border-width: 5px;*/
-    /*border-color: grey;*/
-    border: 10px solid green  
+    /*padding-top:50px; */
+    padding: 50px;
 }
 .blue{
     background-color: blue;
